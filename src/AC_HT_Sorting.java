@@ -169,7 +169,7 @@ public class AC_HT_Sorting extends JFrame {
     public void shuffle() { //randomize
         List<Bar> temp = Arrays.asList(bars);
         Collections.shuffle(temp);
-        bars = (Bar[]) temp.toArray();
+        bars = temp.toArray(bars);
         numSwaps = 0;
         numComparisons = 0;
         refresh();
@@ -458,6 +458,7 @@ class Bar implements Comparable<Bar>{ //object for each bar on screen
         g2.setColor(color);
         g2.fill(bar);
     }
+    @Override
     public int compareTo (Bar e) { //unused
         return Integer.compare(h, e.h);
     }
