@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0087ca5-2736-4654-8e69-06dca5ca578e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/media_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/media_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/media_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/media_4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mergesort Assignment/AC_HT_Sorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mergesort Assignment/AC_HT_Sorting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC_HT_Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC_HT_Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +28,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TLhlMPwdAIw16oMxwJVqG3E8XM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -36,18 +41,6 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.AC_HT_Sorting">
     <configuration default="true" type="Applet">
@@ -114,6 +107,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -137,6 +142,7 @@
       <workItem from="1527207171089" duration="117000" />
       <workItem from="1566597742125" duration="97000" />
       <workItem from="1573245435016" duration="958000" />
+      <workItem from="1580579374320" duration="1192000" />
     </task>
     <servers />
   </component>
@@ -148,10 +154,30 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="179" key="GridCell.Tab.0.bottom" timestamp="1580586839392">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1580586839392" />
+    <state width="1237" height="179" key="GridCell.Tab.0.center" timestamp="1580586839391">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1580586839391" />
+    <state width="1237" height="179" key="GridCell.Tab.0.left" timestamp="1580586839391">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1580586839391" />
+    <state width="1237" height="179" key="GridCell.Tab.0.right" timestamp="1580586839391">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1580586839391" />
   </component>
 </project>
