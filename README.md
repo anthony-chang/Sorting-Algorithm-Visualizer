@@ -1,5 +1,5 @@
 # Sorting-Algorithm-Visualizer
- GUI application to visualize mergesort, combsort, quicksort, and bubble sort. Created for an ICS project in grade 11. 
+ GUI application to visualize mergesort, combsort, quicksort, and bubble sort, and count the number of operations (comparisons and swaps). Created for an ICS project in grade 11. 
  
  <img src = "images/media_1.png" width = 700> <img src = "images/media_2.png" width = 700>
  
