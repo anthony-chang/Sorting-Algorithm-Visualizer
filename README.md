@@ -1,9 +1,12 @@
 # Sorting-Algorithm-Visualizer
  GUI application to visualize mergesort, combsort, quicksort, and bubble sort. Created for an ICS project in grade 11. 
  
- <img src = "images/media_1.png" width = 250> <img src = "images/media_2.png" width = 250>
- 
- <img src = "images/media_3.png" width = 250> <img src = "images/media_4.png" width = 250>
+<img src = "images/quicksort.gif">
+<img src = "images/mergesort.gif">
+<img src = "images/combsort.gif">
+<img src = "images/bubblesort.gif">
+
+ <img src = "images/media_3.png" width = 224> <img src = "images/media_4.png" width = 224>
  
 ## Instructions
  Sorts the bars in increasing height from left to right. The number of bars represents the size of input. Select *20, 100, 1000, 10000,* or *100000* bars to sort, then click on *Shuffle*  to randomize (shuffle) the bars. The animation delay is automatically set, and the number of comparisions and bars swapped is shown. 
